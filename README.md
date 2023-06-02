@@ -35,7 +35,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ![NSG Allowed Inbound Malicious Flows](https://imagizer.imageshack.com/v2/763x487q70/r/923/9yELlm.png))<br>
 ![Linux Syslog Auth Failures](https://imagizer.imageshack.com/v2/1056x539q70/r/923/9UdBq5.png)<br>
 ![Windows RDP/SMB Auth Failures](https://imagizer.imageshack.com/v2/1056x539q70/r/923/9UdBq5.png)<br>
-![MSSQL_Server_AUTH_Failures](https://github.com/ssatterfi/Cloud-Azure-SOC/assets/22823459/5c400875-d0d9-4c20-be4a-7f24b78ea688)<br>
+![MSSQL_Server_AUTH_Failures](https://imagizer.imageshack.com/v2/1601x655q90/r/922/TQjz9N.png)<br>
 
 
 ## Metrics Before Hardening / Security Controls
